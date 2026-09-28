@@ -1,6 +1,15 @@
 # Tech Layoffs 2020–2023: SQL Data Cleaning & Exploratory Analysis
 
-Cleaned and analyzed 2,361 layoff events (March 2020 – March 2023; 1,893 companies in 60 countries) using MySQL.
+![Tech layoffs per year: 80,998 in 2020, 15,823 in 2021, 160,661 in 2022 and 125,677 in 2023 through March 6](docs/social-preview.jpg)
+
+Cleaned and analyzed 2,361 layoff records (March 2020 – March 2023) from 1,890 companies in 59 countries, using MySQL.
+
+## What the data shows
+
+- **383,659 layoffs** tracked in three years. The United States accounts for 67% of them.
+- **2022 was the peak:** 160,661 layoffs, about ten times 2021's 15,823.
+- **2023 started worse:** by March 6 it had reached 125,677, 78% of all of 2022 in about ten weeks.
+- **Biggest single companies:** Amazon (18,150), Google (12,000) and Meta (11,000). By industry, Consumer and Retail were hit hardest.
 
 ## Data cleaning ([data_cleaning.sql](data_cleaning.sql))
 
